@@ -1,0 +1,5 @@
+export const ADD_MOVIE='ADD_MOVIE'
+export const EDIT_MOVIE='EDIT_MOVIE'
+export const DELETE_MOVIE='DELETE_MOVIE'
+export const RATE_FILTER='RATE_FILTER'
+export const NAME_FILTER='NAME_FILTER'

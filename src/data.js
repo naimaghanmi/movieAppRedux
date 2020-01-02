@@ -1,0 +1,20 @@
+export const movies=
+[{id:Math.random(),name:"Pinoccio",
+des:"Geppetto, un pauvre menuisier italien, fabrique dans un morceau de bois un pantin qui pleure,rit et parle comme un enfant, une marionnette qu'il nomme Pinocchio et qu'il aime comme le fils qu'il n'a pas eu. Désobéissant, parfois menteur, Pinocchio va se trouver entraîné dans de nombreuses aventures.",src:"https://media2.picsearch.com/is?M0RRN2xzI2NZFH8alBQ0qGVGLwQ5mVwv-ypqkyIgyIM&height=337" 
+,rate:2 ,year:"1940"},
+{id:Math.random(),name:"Alice au pays des merveilles",
+des:"Alice au pays des merveilles : résumé de l'histoire. Alice se repose sur un talus lorsqu'elle voit passer un lapin blanc vêtu d'un gilet, visiblement pressé. Elle décide de le suivre et, sans hésitation, s'engouffre à sa suite dans un terrier.",
+src:"https://media4.picsearch.com/is?K-1HbFVfUoXzjC0SHFu-gttUSWAEtbWMKpxnjBqX40c&height=334",
+ rate:3,year:"1951"},
+{id:Math.random(),name:"Mary et Max",
+des:"Sur plus de 20 ans et d'un continent à l'autre, Mary et Max raconte l'histoire d'une relation épistolaire entre 2 personnes très différentes : Mary Dinkle, une fillette de 8 ans joufflue et solitaire, vivant dans la banlieue de Melbourne, en Australie, et Max Horowitz, un Juif obèse de 44 ans, atteint du syndrome d'Asperger et habitant dans la jungle urbaine de New York.",
+src:"https://media4.picsearch.com/is?w0nkcnd3j0ah_IQ7AgOVLzhUEjS-Zm5gf4eFWl9uKQk&height=100" ,
+rate:5,year:"2009"},
+{id:Math.random(),name:"le roi lion",
+des:"Le fils du roi des animaux vient de naître. Son oncle est jaloux car il aimerait lui aussi régner. Il invente une ruse qui aboutira sur la mort du roi. Le jeune fils, Simba, témoin de la mort de son père, et s'en croyant responsable, va fuir sa horde.",
+src:"https://media1.picsearch.com/is?Gc-o1XVTRpb8FmLwf-MZUaPCs9FcszTKUvUJvJs-E7I&height=336",
+rate:4,year:"2019"},
+{id:Math.random(),name:"la reine des neiges",
+des:"Elsa et Anna sont les deux princesses du royaume d'Arendelle. Elsa, l'aînée, possède un puissant pouvoir : celui de contrôler la neige et la glace. Toutefois, son pouvoir n'est connu que de ses parents et de sa sur car Elsa serait immédiatement considérée comme une sorcière aux yeux des habitants du royaume. Plusieurs fois, elle et Anna s'amusent de cette magie jusqu'à ce que Elsa blesse accidentellement sa sur à la tête.",
+src:"http://fr.web.img2.acsta.net/c_215_290/pictures/19/10/25/15/08/5952325.jpg",
+rate:3,year:"2019"}];
